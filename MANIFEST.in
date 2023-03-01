@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include lipton_custom *.css
+recursive-include lipton_custom *.csv
+recursive-include lipton_custom *.html
+recursive-include lipton_custom *.ico
+recursive-include lipton_custom *.js
+recursive-include lipton_custom *.json
+recursive-include lipton_custom *.md
+recursive-include lipton_custom *.png
+recursive-include lipton_custom *.py
+recursive-include lipton_custom *.svg
+recursive-include lipton_custom *.txt
+recursive-exclude lipton_custom *.pyc
