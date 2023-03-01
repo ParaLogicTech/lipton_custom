@@ -7,6 +7,27 @@ app_description = "Lipton Customizations"
 app_email = "info@paralogic.io"
 app_license = "MIT"
 
+
+fixtures = [
+	{
+		"doctype": "Custom Field",
+		"filters": {
+            "name": [
+                "in", 
+                [
+                    "Batch-garden_mark",
+                    "Batch-grade",
+                    "Batch-chop",
+                    "Batch-taste",
+                    "Batch-hue",
+                    "Batch-mouthfeel",
+                    "Item-tealingo_item"
+                ]
+            ]
+        }
+    }
+]
+
 # Includes in <head>
 # ------------------
 
