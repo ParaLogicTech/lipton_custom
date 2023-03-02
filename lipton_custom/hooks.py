@@ -9,10 +9,10 @@ app_license = "MIT"
 
 
 fixtures = [
-	{
-		"doctype": "Custom Field",
-		"filters": {
-            "name": [
+    {
+        "doctype": "Custom Field",
+            "filters": {
+                "name": [
                 "in", 
                 [
                     "Batch-garden_mark",
