@@ -15,10 +15,13 @@ fixtures = [
                 "name": [
                 "in", 
                 [
+                    "Batch-traceability_details"
                     "Batch-garden_mark",
                     "Batch-grade",
+                    "Batch-column_break_10",
                     "Batch-chop",
                     "Batch-taste",
+                    "Batch-column_break_11",
                     "Batch-hue",
                     "Batch-mouthfeel",
                     "Item-tealingo_item"
