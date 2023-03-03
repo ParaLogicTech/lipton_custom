@@ -2238,7 +2238,7 @@
   "docstatus": 0,
   "doctype": "Custom Field",
   "dt": "Purchase Receipt Item",
-  "fetch_from": "item_code.tealingo.item",
+  "fetch_from": "item_code.tealingo_item",
   "fetch_if_empty": 0,
   "fieldname": "tealingo_item",
   "fieldtype": "Data",
