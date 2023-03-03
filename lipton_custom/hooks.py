@@ -15,7 +15,7 @@ fixtures = [
                 "name": [
                 "in", 
                 [
-                    "Batch-traceability_details"
+                    "Batch-traceability_details",
                     "Batch-garden_mark",
                     "Batch-grade",
                     "Batch-column_break_10",
@@ -24,7 +24,38 @@ fixtures = [
                     "Batch-column_break_11",
                     "Batch-hue",
                     "Batch-mouthfeel",
-                    "Item-tealingo_item"
+
+                    "Item-tealingo_item",
+
+                    "Purchase Receipt Item-garden_mark",
+                    "Purchase Receipt Item-grade",
+                    "Purchase Receipt Item-column_break_50",
+                    "Purchase Receipt Item-chop",
+                    "Purchase Receipt Item-taste",
+                    "Purchase Receipt Item-column_break_51",
+                    "Purchase Receipt Item-hue",
+                    "Purchase Receipt Item-mouthfeel",
+                    "Purchase Receipt Item-tealingo_item",
+
+                    "Purchase Invoice Item-garden_mark",
+                    "Purchase Invoice Item-grade",
+                    "Purchase Invoice Item-column_break_8",
+                    "Purchase Invoice Item-chop",
+                    "Purchase Invoice Item-taste",
+                    "Purchase Invoice Item-column_break_9",
+                    "Purchase Invoice Item-hue",
+                    "Purchase Invoice Item-mouthfeel",
+                    "Purchase Invoice Item-tealingo_item",
+
+                    "Stock Entry Detail-garden_mark",
+                    "Stock Entry Detail-grade",
+                    "Stock Entry Detail-column_break_53",
+                    "Stock Entry Detail-chop",
+                    "Stock Entry Detail-taste",
+                    "Stock Entry Detail-column_break_54",
+                    "Stock Entry Detail-hue",
+                    "Stock Entry Detail-mouthfeel",
+                    "Stock Entry Detail-tealingo_item",
                 ]
             ]
         }
